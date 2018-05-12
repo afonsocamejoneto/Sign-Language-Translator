@@ -1,7 +1,7 @@
 # Sign-Language-Translator
 
 # dataset
-The dataset created for this project is to big for github although its available in OneDrive the link is https://livemdxac-my.sharepoint.com/:f:/g/personal/an808_live_mdx_ac_uk/EoarB0PB9etBj85mikRyqtcBuQRki8b0Vhb-UJ5XyJK-7Q?e=8wNvv7
+The dataset, and a few tensorflow files are to big to upload to github, although its available in OneDrive the link is https://livemdxac-my.sharepoint.com/:f:/g/personal/an808_live_mdx_ac_uk/EoarB0PB9etBj85mikRyqtcBuQRki8b0Vhb-UJ5XyJK-7Q?e=8wNvv7
 
  # Motivation
  
