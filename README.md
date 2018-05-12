@@ -1,5 +1,8 @@
 # Sign-Language-Translator
 
+# dataset
+The dataset created for this project is to big for github although its available in OneDrive the link is https://livemdxac-my.sharepoint.com/:f:/g/personal/an808_live_mdx_ac_uk/EoarB0PB9etBj85mikRyqtcBuQRki8b0Vhb-UJ5XyJK-7Q?e=8wNvv7
+
  # Motivation
  
   Sign language is fairly new to the eyes of the public, meaning that, only in 2009 England recognize British Sign language as a language, so there is not much research on this subject.The deaf community suffers daily from communication problems such as Public announcements the famous sentence " Mind the gap "it's not perceptible for the Hearing Impaired. My idea with this project is to reach out to this people and try to give them something that will have a positive impact and bridge the deaf and the nondeaf communities by allowing them to communicate with each other and hence improve the lives of these people that have been and still are neglected up to this day.
