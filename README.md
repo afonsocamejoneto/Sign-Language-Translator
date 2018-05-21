@@ -26,6 +26,9 @@ In my project, i used ConvNet because I was dealing with image recognition and 
   OpenCV is a library of programming functions mainly aimed at real-time computer vision. Originally developed by Intel, it was later supported by Willow Garage and is now maintained by Itseez.
   Since my project involve image analysis, I'm using python with OpenCV libraries to scale, threshold, and modify the images, video or the live stream webcam so that it can be deployed and used by Movidius.
   
-  # code
+  # Final thoughts
   This projects uses two platforms the TensorFlow platform and sci kit-learn, both codes are available in GitHub. Bare in mind the TensorFlow model uses a technique called transfer learning and in my case it didn't not work as expected.
+  In my modest opinion and since i have been working with both platfomrs, and i have come to a to a conclusion. Integrating Tensorflow with sci kit-learn would create an ideal model for a sign language translator. Tensorflow has made public in 2015 while sci kit-learn has been around for much longer and has been used by the machine learnig community for years, it has become the standtard when it comes to python machine learning. If sci kit-learn could be integrate with tensorflow, a machine learning intusiastic could use the knowledge of sci kit-learn and apply it to tensorflow. For more information read this article https://www.kdnuggets.com/2016/02/scikit-flow-easy-deep-learning-tensorflow-scikit-learn.html. 
+   
+  
   
